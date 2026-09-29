@@ -1,2 +1,3 @@
-# uav_ec_synth
-Simulation of Video Signal Distortion Under the Influence of Electronic Countermeasures.
+# Simulation of Video Signal Distortion Under the Influence of Electronic Countermeasures.
+
+This repo is containing code related to corresponding research paper.
